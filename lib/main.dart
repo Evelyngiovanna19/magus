@@ -119,7 +119,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     // Logo más grande
-                    Image.asset('assets/logo.png', width: 260),
+                    Image.asset('assets/Logo.png', width: 260),
 
                     SizedBox(height: 8), // Espacio reducido
                     // Título con texto más grande
@@ -162,7 +162,7 @@ class IntermediateScreen extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/logo.png', width: 150),
+              Image.asset('assets/Logo.png', width: 150),
               SizedBox(height: 20),
               Text(
                 "BIENVENIDO \n A \n MAGUSBOOK",
@@ -1295,7 +1295,7 @@ class ConfirmationCodeScreen extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/logo.png', width: 150),
+              Image.asset('assets/Logo.png', width: 150),
               SizedBox(height: 20),
               Text(
                 "Este es tu correo de restablecimiento de contraseña: \n$email",
@@ -1346,7 +1346,7 @@ class SuccessScreen extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/logo.png', width: 150),
+              Image.asset('assets/Logo.png', width: 150),
               SizedBox(height: 20),
               Text(
                 "TE REGISTRASTE EXITOSAMENTE",
@@ -1412,7 +1412,7 @@ class _SurveyScreenState extends State<SurveyScreen> {
           children: [
             SizedBox(height: 40), // Espaciado para el notch
             // Logo
-            Image.asset("assets/logo.png", width: 80),
+            Image.asset("assets/Logo.png", width: 80),
 
             SizedBox(height: 15),
 
@@ -1759,7 +1759,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/logo.png', width: 150),
+              Image.asset('assets/Logo.png', width: 150),
               SizedBox(height: 20),
               Text(
                 "BIENVENIDO A MAGUSBOOK",
