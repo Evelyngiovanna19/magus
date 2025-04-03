@@ -40522,7 +40522,7 @@ aw(){this.aI()
 this.acq()},
 acq(){A.tm(A.dr(0,0,5),new A.arz(this),t.P)},
 K(a){var s,r,q=null,p=A.b([A.aX(4283112767),A.al(255,114,42,69),A.al(255,65,41,78)],t.t_),o=t.p
-p=A.d7(q,A.cL(A.b([A.zt("assets/logo.png",q,260),A.ar(q,8,q),A.aJ("MAGUSBOOK",q,q,q,A.bx(q,q,B.j,q,q,q,q,q,q,q,q,28,q,q,B.al,q,q,!0,q,q,q,q,q,q,q,q),q,q)],o),B.z,B.bq,B.B),B.r,q,q,new A.c7(q,q,q,q,q,new A.iB(B.cv,B.bO,B.ba,p,q,q),B.da),q,350,q,q,q,q,350)
+p=A.d7(q,A.cL(A.b([A.zt("assets/Logo.png",q,260),A.ar(q,8,q),A.aJ("MAGUSBOOK",q,q,q,A.bx(q,q,B.j,q,q,q,q,q,q,q,q,28,q,q,B.al,q,q,!0,q,q,q,q,q,q,q,q),q,q)],o),B.z,B.bq,B.B),B.r,q,q,new A.c7(q,q,q,q,q,new A.iB(B.cv,B.bO,B.ba,p,q,q),B.da),q,350,q,q,q,q,350)
 s=A.ar(q,25,q)
 r=A.b8(a,q,t.w).w
 return A.fz(q,A.I2(A.fg(A.cL(A.b([p,s,A.ar(new A.A1(q,B.FN,A.al(255,66,10,59),q,q,q,q),q,r.a.a*0.6)],o),B.z,B.bq,B.B),q,q)),q)}}
@@ -40535,7 +40535,7 @@ $1(a){return new A.pe(null)},
 $S:113}
 A.pe.prototype={
 K(a){var s=null
-return A.fz(s,A.I2(A.fg(A.cL(A.b([A.zt("assets/logo.png",s,150),A.ar(s,20,s),A.aJ("BIENVENIDO \n A \n MAGUSBOOK",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,24,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),B.c4,s),A.ar(s,20,s),this.N2(a,"Iniciar sesi\xf3n",B.fn,B.l,new A.a6s(a)),A.ar(s,30,s),this.N2(a,"Registrarse",B.fn,B.l,new A.a6t(a))],t.p),B.z,B.bq,B.B),s,s)),s)},
+return A.fz(s,A.I2(A.fg(A.cL(A.b([A.zt("assets/Logo.png",s,150),A.ar(s,20,s),A.aJ("BIENVENIDO \n A \n MAGUSBOOK",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,24,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),B.c4,s),A.ar(s,20,s),this.N2(a,"Iniciar sesi\xf3n",B.fn,B.l,new A.a6s(a)),A.ar(s,30,s),this.N2(a,"Registrarse",B.fn,B.l,new A.a6t(a))],t.p),B.z,B.bq,B.B),s,s)),s)},
 N2(a,b,c,d,e){var s=null,r=A.b8(a,s,t.w).w,q=A.mq(s,s,c,s,s,s,s,s,s,s,s,s,s,s,new A.ce(A.di(15),B.q),s,s,s,s)
 return A.ar(A.jt(A.aJ(b,s,s,s,A.bx(s,s,d,s,s,s,s,s,s,s,s,18,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),s,s),e,q),45,r.a.a*0.4)}}
 A.a6s.prototype={
@@ -40650,7 +40650,7 @@ break
 case 5:return A.C(null,r)
 case 1:return A.B(p.at(-1),r)}})
 return A.D($async$wr,r)},
-K(a){var s=null,r=A.zt("assets/logo.png",s,150),q=A.ar(s,20,s),p=A.aJ("Este es tu correo de restablecimiento de contrase\xf1a: \n"+this.c,s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,20,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),B.c4,s),o=A.ar(s,20,s),n=A.mq(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,new A.ce(A.di(15),B.q),s,s,s,s)
+K(a){var s=null,r=A.zt("assets/Logo.png",s,150),q=A.ar(s,20,s),p=A.aJ("Este es tu correo de restablecimiento de contrase\xf1a: \n"+this.c,s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,20,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),B.c4,s),o=A.ar(s,20,s),n=A.mq(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,new A.ce(A.di(15),B.q),s,s,s,s)
 return A.fz(s,A.I2(A.fg(A.cL(A.b([r,q,p,o,A.jt(A.aJ("Enviar a correo",s,s,s,A.bx(s,s,B.l,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a0v(this,a),n),A.ar(s,20,s),A.ny(A.aJ("Atr\xe1s",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a0w(a),s)],t.p),B.z,B.bq,B.B),s,s)),s)}}
 A.a0v.prototype={
 $0(){return this.a.wr(this.b)},
@@ -40663,7 +40663,7 @@ A.qt.prototype={
 ac(){var s=t.N
 return new A.Wg(A.b([A.a7(["name","Terror","image","assets/terror.png"],s,s),A.a7(["name","Misterio","image","assets/misterio.png"],s,s),A.a7(["name","Ficci\xf3n","image","assets/ciencia.png"],s,s),A.a7(["name","Romance","image","assets/romance.png"],s,s)],t.m0),A.b([],t.s))}}
 A.Wg.prototype={
-K(a){var s=null,r=A.ar(s,40,s),q=A.zt("assets/logo.png",s,80),p=A.ar(s,15,s),o=A.aJ("Nos gustar\xeda conocerte un poco mejor,  para poder hacerte sugerencias de lectura personalizadas. A continuaci\xf3n, puedes seleccionar los g\xe9neros de lectura que prefieras, \ncon el fin de personalizar tu experiencia en MAGUSBOOK.",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.c4,s),n=A.ar(s,20,s),m=A.aJ("FORMULARIO",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,18,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),s,s),l=A.ar(s,15,s),k=A.yU(A.aBc(new A.Cv(2,10,10,0.85),new A.arP(this),4,new A.an(25,0,25,0)),1),j=A.ar(s,10,s),i=A.b8(a,s,t.w).w,h=A.mq(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,new A.ce(A.di(15),B.q),s,s,s,s)
+K(a){var s=null,r=A.ar(s,40,s),q=A.zt("assets/Logo.png",s,80),p=A.ar(s,15,s),o=A.aJ("Nos gustar\xeda conocerte un poco mejor,  para poder hacerte sugerencias de lectura personalizadas. A continuaci\xf3n, puedes seleccionar los g\xe9neros de lectura que prefieras, \ncon el fin de personalizar tu experiencia en MAGUSBOOK.",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.c4,s),n=A.ar(s,20,s),m=A.aJ("FORMULARIO",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,18,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),s,s),l=A.ar(s,15,s),k=A.yU(A.aBc(new A.Cv(2,10,10,0.85),new A.arP(this),4,new A.an(25,0,25,0)),1),j=A.ar(s,10,s),i=A.b8(a,s,t.w).w,h=A.mq(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,new A.ce(A.di(15),B.q),s,s,s,s)
 return A.fz(s,A.I2(A.cL(A.b([r,q,p,new A.bm(B.Hf,o,s),n,m,l,k,j,A.ar(A.jt(A.aJ("Guardar",s,s,s,A.bx(s,s,B.l,s,s,s,s,s,s,s,s,16,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.arQ(a),h),45,i.a.a*0.6),A.ar(s,15,s),A.f_(s,A.aJ("ATR\xc1S",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.arR(a),s,s,s,s,s,s),A.ar(s,20,s)],t.p),B.z,B.F,B.B)),s)}}
 A.arP.prototype={
 $2(a,b){var s,r,q,p=null,o=this.a,n=o.d,m=n[b].h(0,"name")
@@ -40722,7 +40722,7 @@ break
 case 5:return A.C(null,r)
 case 1:return A.B(p.at(-1),r)}})
 return A.D($async$wG,r)},
-K(a){var s=this,r=null,q=A.b([A.zt("assets/logo.png",r,150),A.ar(r,20,r),A.aJ("BIENVENIDO A MAGUSBOOK",r,r,r,A.bx(r,r,B.j,r,r,r,r,r,r,r,r,24,r,r,B.al,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.ar(r,20,r),s.n6("Correo electr\xf3nico",s.e,!1),A.ar(r,20,r),s.n6("Contrase\xf1a",s.f,!0),A.ar(r,10,r)],t.p),p=s.r
+K(a){var s=this,r=null,q=A.b([A.zt("assets/assets/Logo.png",r,150),A.ar(r,20,r),A.aJ("BIENVENIDO A MAGUSBOOK",r,r,r,A.bx(r,r,B.j,r,r,r,r,r,r,r,r,24,r,r,B.al,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.ar(r,20,r),s.n6("Correo electr\xf3nico",s.e,!1),A.ar(r,20,r),s.n6("Contrase\xf1a",s.f,!0),A.ar(r,10,r)],t.p),p=s.r
 if(p!=null)q.push(new A.bm(new A.an(25,0,25,0),A.aJ(p,r,r,r,A.bx(r,r,B.ck,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r))
 q.push(A.ar(r,20,r))
 p=A.mq(r,r,B.j,r,r,r,r,r,r,B.l,r,r,r,r,new A.ce(A.di(15),B.q),r,r,r,r)
