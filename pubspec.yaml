@@ -41,7 +41,7 @@ flutter:
 
   # Activos y recursos del proyecto
   assets:
-    - assets/
+    - assets/Logo.png
 
 flutter_icons:
   android: true
