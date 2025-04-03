@@ -119,7 +119,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     // Logo más grande
-                    Image.asset('assets/assets/Logo.png', width: 150),
+                    Image.asset('assets/Logo.png', width: 260),
 
                     SizedBox(height: 8), // Espacio reducido
                     // Título con texto más grande
@@ -162,7 +162,7 @@ class IntermediateScreen extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/assets/Logo.png', width: 150),
+              Image.asset('assets/Logo.png', width: 150),
               SizedBox(height: 20),
               Text(
                 "BIENVENIDO \n A \n MAGUSBOOK",

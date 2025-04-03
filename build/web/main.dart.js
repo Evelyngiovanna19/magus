@@ -40522,7 +40522,7 @@ aw(){this.aI()
 this.acq()},
 acq(){A.tm(A.dr(0,0,5),new A.arz(this),t.P)},
 K(a){var s,r,q=null,p=A.b([A.aX(4283112767),A.al(255,114,42,69),A.al(255,65,41,78)],t.t_),o=t.p
-p=A.d7(q,A.cL(A.b([A.zt("assets/assets/Logo.png",q,150),A.ar(q,8,q),A.aJ("MAGUSBOOK",q,q,q,A.bx(q,q,B.j,q,q,q,q,q,q,q,q,28,q,q,B.al,q,q,!0,q,q,q,q,q,q,q,q),q,q)],o),B.z,B.bq,B.B),B.r,q,q,new A.c7(q,q,q,q,q,new A.iB(B.cv,B.bO,B.ba,p,q,q),B.da),q,350,q,q,q,q,350)
+p=A.d7(q,A.cL(A.b([A.zt("assets/Logo.png",q,260),A.ar(q,8,q),A.aJ("MAGUSBOOK",q,q,q,A.bx(q,q,B.j,q,q,q,q,q,q,q,q,28,q,q,B.al,q,q,!0,q,q,q,q,q,q,q,q),q,q)],o),B.z,B.bq,B.B),B.r,q,q,new A.c7(q,q,q,q,q,new A.iB(B.cv,B.bO,B.ba,p,q,q),B.da),q,350,q,q,q,q,350)
 s=A.ar(q,25,q)
 r=A.b8(a,q,t.w).w
 return A.fz(q,A.I2(A.fg(A.cL(A.b([p,s,A.ar(new A.A1(q,B.FN,A.al(255,66,10,59),q,q,q,q),q,r.a.a*0.6)],o),B.z,B.bq,B.B),q,q)),q)}}
@@ -40535,7 +40535,7 @@ $1(a){return new A.pe(null)},
 $S:113}
 A.pe.prototype={
 K(a){var s=null
-return A.fz(s,A.I2(A.fg(A.cL(A.b([A.zt("assets/assets/Logo.png",s,150),A.ar(s,20,s),A.aJ("BIENVENIDO \n A \n MAGUSBOOK",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,24,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),B.c4,s),A.ar(s,20,s),this.N2(a,"Iniciar sesi\xf3n",B.fn,B.l,new A.a6s(a)),A.ar(s,30,s),this.N2(a,"Registrarse",B.fn,B.l,new A.a6t(a))],t.p),B.z,B.bq,B.B),s,s)),s)},
+return A.fz(s,A.I2(A.fg(A.cL(A.b([A.zt("assets/Logo.png",s,150),A.ar(s,20,s),A.aJ("BIENVENIDO \n A \n MAGUSBOOK",s,s,s,A.bx(s,s,B.j,s,s,s,s,s,s,s,s,24,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),B.c4,s),A.ar(s,20,s),this.N2(a,"Iniciar sesi\xf3n",B.fn,B.l,new A.a6s(a)),A.ar(s,30,s),this.N2(a,"Registrarse",B.fn,B.l,new A.a6t(a))],t.p),B.z,B.bq,B.B),s,s)),s)},
 N2(a,b,c,d,e){var s=null,r=A.b8(a,s,t.w).w,q=A.mq(s,s,c,s,s,s,s,s,s,s,s,s,s,s,new A.ce(A.di(15),B.q),s,s,s,s)
 return A.ar(A.jt(A.aJ(b,s,s,s,A.bx(s,s,d,s,s,s,s,s,s,s,s,18,s,s,B.al,s,s,!0,s,s,s,s,s,s,s,s),s,s),e,q),45,r.a.a*0.4)}}
 A.a6s.prototype={
