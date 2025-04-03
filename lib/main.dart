@@ -1759,7 +1759,8 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/assets/Logo.png', width: 150),
+              //Image.asset('assets/assets/Logo.png', width: 150),
+              Image.asset('assets/Logo.png', width: 150),
               SizedBox(height: 20),
               Text(
                 "BIENVENIDO A MAGUSBOOK",

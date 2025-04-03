@@ -40722,7 +40722,7 @@ break
 case 5:return A.C(null,r)
 case 1:return A.B(p.at(-1),r)}})
 return A.D($async$wG,r)},
-K(a){var s=this,r=null,q=A.b([A.zt("assets/assets/Logo.png",r,150),A.ar(r,20,r),A.aJ("BIENVENIDO A MAGUSBOOK",r,r,r,A.bx(r,r,B.j,r,r,r,r,r,r,r,r,24,r,r,B.al,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.ar(r,20,r),s.n6("Correo electr\xf3nico",s.e,!1),A.ar(r,20,r),s.n6("Contrase\xf1a",s.f,!0),A.ar(r,10,r)],t.p),p=s.r
+K(a){var s=this,r=null,q=A.b([A.zt("assets/Logo.png",r,150),A.ar(r,20,r),A.aJ("BIENVENIDO A MAGUSBOOK",r,r,r,A.bx(r,r,B.j,r,r,r,r,r,r,r,r,24,r,r,B.al,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.ar(r,20,r),s.n6("Correo electr\xf3nico",s.e,!1),A.ar(r,20,r),s.n6("Contrase\xf1a",s.f,!0),A.ar(r,10,r)],t.p),p=s.r
 if(p!=null)q.push(new A.bm(new A.an(25,0,25,0),A.aJ(p,r,r,r,A.bx(r,r,B.ck,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r))
 q.push(A.ar(r,20,r))
 p=A.mq(r,r,B.j,r,r,r,r,r,r,B.l,r,r,r,r,new A.ce(A.di(15),B.q),r,r,r,r)
