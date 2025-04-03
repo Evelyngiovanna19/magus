@@ -1,0 +1,49 @@
+name: MagusBook
+description: A new Flutter project.
+
+# Evita que el paquete se publique accidentalmente en pub.dev
+publish_to: 'none' # Eliminar esta línea si deseas publicar en pub.dev
+
+# Versión del proyecto
+version: 1.0.0+1
+
+# Configuración del entorno de Dart
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+# Dependencias principales del proyecto
+dependencies:
+  flutter:
+    sdk: flutter
+  async: ^2.12.0  # No se puede actualizar porque Flutter lo fija
+  cloud_firestore: ^4.15.5
+  fake_async: ^1.3.2  # No se puede actualizar porque Flutter lo fija
+  firebase_auth: ^4.16.0
+  firebase_core: ^2.32.0
+  url_launcher: ^6.1.14
+  firebase_storage: ^11.6.5
+  flutter_launcher_icons: ^0.14.3
+  leak_tracker: ^10.0.8  # No se puede actualizar porque Flutter lo fija
+  material_color_utilities: ^0.11.1  # No se puede actualizar porque Flutter lo fija
+  vm_service: ^14.3.1 
+  flutter_colorpicker: ^1.0.3
+  shared_preferences: ^2.2.2
+  flutter_pdfview: ^1.2.7
+  path_provider: ^2.1.2
+# Dependencias para desarrollo y pruebas
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# Configuración específica de Flutter
+flutter:
+  uses-material-design: true
+
+  # Activos y recursos del proyecto
+  assets:
+    - assets/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/Logo.png"

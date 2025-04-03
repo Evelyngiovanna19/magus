@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "81343272216",
+    "firebase_url": "https://magusb-4e1c9-default-rtdb.firebaseio.com",
+    "project_id": "magusb-4e1c9",
+    "storage_bucket": "magusb-4e1c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81343272216:android:bc0acc74fa6c6941117a6d",
+        "android_client_info": {
+          "package_name": "com.example.spotify_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCsX6NMNOLgC-fzdjUrY8riQmbw7tsJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
